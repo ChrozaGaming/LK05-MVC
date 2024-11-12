@@ -123,17 +123,6 @@ Kode di atas mengatur alur dari pengambilan data pengguna dari model dan menerus
 - **CSS** 🎨
 - **Apache/Nginx** 🌍 (Web Server)
 
----
-
-## 📋 Daftar Tugas (Future Improvements)
-
-- [ ] Tambahkan validasi pada sisi server dan klien.
-- [ ] Integrasi dengan front-end framework (contoh: Bootstrap atau Tailwind).
-- [ ] Penanganan error dan exception handling.
-- [ ] Implementasi autentikasi pengguna.
-
----
-
 ## 📄 Lisensi
 
 Proyek ini dibuat untuk menyelesaikan penugasan belajar pada mata kuliah Pengembangan Aplikasi Web.
